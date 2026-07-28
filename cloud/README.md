@@ -1,1 +1,1 @@
-# My Self-Hosted Cloud
+# Self-Hosted Cloud
